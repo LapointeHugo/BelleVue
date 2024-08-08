@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BelleVue", "BelleVue\BelleVue.csproj", "{F9CBF8A1-C354-478E-B9AC-F614F6E6AA57}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9CBF8A1-C354-478E-B9AC-F614F6E6AA57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9CBF8A1-C354-478E-B9AC-F614F6E6AA57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9CBF8A1-C354-478E-B9AC-F614F6E6AA57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9CBF8A1-C354-478E-B9AC-F614F6E6AA57}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F19D7C8-AD68-44E6-A947-9CCAD2B5F1D1}
+	EndGlobalSection
+EndGlobal
